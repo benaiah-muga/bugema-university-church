@@ -1,0 +1,6 @@
+name = "bugema-university-church"
+compatibility_date = "2025-05-13"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
